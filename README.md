@@ -44,4 +44,4 @@ y descargué el cambio con git pull.
 - datos.txt: contiene el texto inicial y las modificaciones.
 
 ## Conclusión
-Aquí escribiré lo que aprendí durante la práctica.
+utilice todos los comandos que el profe charly me enseño y gracias a ello pude realizar esta actividad porque antes no sabia nada.
